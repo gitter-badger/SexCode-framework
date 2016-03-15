@@ -1,5 +1,7 @@
 # CodeSex Framework
 
+[![Join the chat at https://gitter.im/ale-php/SexCode-framework](https://badges.gitter.im/ale-php/SexCode-framework.svg)](https://gitter.im/ale-php/SexCode-framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 CodeSex is a Framework , light for developer 
 
 ## Features
